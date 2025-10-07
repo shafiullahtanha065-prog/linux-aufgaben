@@ -948,7 +948,6 @@ Aufgaben
 
     <div style="text-align: center; margin-top: 50px; padding: 20px; background: #ecf0f1; border-radius: 10px;">
         <h2>✅ Ende der Anleitung</h2>
-        <p><strong>Viel Erfolg bei der Prüfung!</strong></p>
         <p>Klicken Sie auf "Als PDF speichern / Drucken" oben rechts, um diese Anleitung zu speichern.</p>
     </div>
 
