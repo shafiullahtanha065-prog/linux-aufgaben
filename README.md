@@ -1,6 +1,7 @@
 # linux-aufgaben
 Aufgaben
-[Linux_Aufgaben.html](https://github.com/user-attachments/files/22740496/Linux_Aufgaben.html)
+
+[Linux_Aufgaben.html](https://github.com/user-attachments/files/22740632/Linux_Aufgaben.html)
 <!DOCTYPE html>
 <html lang="de">
 <head>
